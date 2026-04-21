@@ -14,7 +14,7 @@
 		},
 		"ios": {
 			"supportsTablet": true,
-			"bundleIdentifier": "com.mrblonde97.featurespoc",
+			"bundleIdentifier": "com.gandalfsas.featurespoc",
 			"infoPlist": {
 				"TSLocationManagerLicense": "YOUR_IOS_LICENSE_KEY_JWT",
 				"UIBackgroundModes": ["location", "fetch", "processing", "audio"],
@@ -31,7 +31,7 @@
 			},
 			"edgeToEdgeEnabled": true,
 			"predictiveBackGestureEnabled": false,
-			"package": "com.mrblonde97.featurespoc"
+			"package": "com.gandalfsas.featurespoc"
 		},
 		"web": {
 			"favicon": "./assets/favicon.png"
